@@ -1,4 +1,4 @@
-BK Minecraft Server
+# BK Minecraft Server Info
 
 A server information page I made for my friend's Minecraft server. Shows the server's message of the day, gives options for connecting, shows online status, server version, server logo, online player count, online player list, and a server map with pins of built areas and player locations.
 
